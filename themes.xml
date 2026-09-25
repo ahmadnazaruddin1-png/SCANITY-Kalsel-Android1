@@ -1,0 +1,7 @@
+<resources>
+<style name="Theme.SCANITY" parent="android:style/Theme.Material.Light.NoActionBar">
+    <item name="android:fontFamily">sans</item><item name="android:colorAccent">#E60000</item>
+    <item name="android:navigationBarColor">#080808</item><item name="android:statusBarColor">#080808</item>
+    <item name="android:windowLightStatusBar">false</item>
+</style>
+</resources>
